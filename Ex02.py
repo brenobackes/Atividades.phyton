@@ -1,0 +1,9 @@
+n1 = int(input("Digite um número: "))
+n2 = int(input("Digite outro número: "))
+soma = n1 + n2
+subtracao = n1 - n2
+Multiplicacao = n1 * n2
+
+print("A soma de ",n1,"+",n2,"é",soma)
+print("A subtração de ",n1,"-",n2,"é",subtracao)
+print("A multiplicação de ",n1,"*",n2,"é",Multiplicacao)
